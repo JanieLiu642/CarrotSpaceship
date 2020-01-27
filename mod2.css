@@ -62,12 +62,12 @@ h2{
 }
 #chicken {
     background-color: #d59898;
-
 }
 #beef {
     background-color: #c14543;
     color: white;
 }
-#sushi {background-color: #e5d198;}
+#sushi {
+	background-color: #e5d198;}
 }
 </style>
